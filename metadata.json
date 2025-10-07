@@ -1,0 +1,5 @@
+{
+  "name": "i2c",
+  "description": "Transform images into code. Generate complete, runnable projects from a single screenshot.",
+  "requestFramePermissions": []
+}
